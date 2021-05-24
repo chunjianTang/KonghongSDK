@@ -1,0 +1,6 @@
+framework module AVIOTLibrary {
+  umbrella header "AVIOTLibrary.h"
+
+  export *
+  module * { export * }
+}
